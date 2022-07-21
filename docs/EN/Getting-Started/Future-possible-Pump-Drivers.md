@@ -34,11 +34,11 @@ More info see this [page](https://www.mylife-diabetescare.com/en/loop-program.ht
 
 ***
 
-### EOFLOW ([Homepage](http://www.eoflow.com/eng/main/main.html))
+### EOFLOW EOPatch ([Homepage](http://www.eoflow.com/eng/main/main.html))
 
-**Loop status:** Is a Loop candidate. The remote control they use is actually modified Android device. (Pump is currently available only in Korea).
+**Loop status:** Loop support in AndroidAPS has been developed and is in [testing](https://github.com/nightscout/AndroidAPS/pull/1324).
 
-**Hardware requirement for AAPS:** Probably none. It seems to be BT enabled.
+**Hardware requirement for AAPS:** None. EOPatch is a Bluetooth patch pump.
 
 
 ***
